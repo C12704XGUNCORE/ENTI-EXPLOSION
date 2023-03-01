@@ -9,6 +9,6 @@ server_script 'server.lua'
 client_script 'client.lua'
 ----------------------------------------------------------------
 author 'C12704XGUNCORE'
-description 'For Moi'
+description 'For Public'
 year '2023'
 ----------------------------------------------------------------
